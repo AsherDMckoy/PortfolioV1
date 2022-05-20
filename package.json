@@ -1,0 +1,14 @@
+{
+  "name": "portfoliov1",
+  "version": "1.0.0",
+  "description": "Personal and Professional Portfolio of Asher D. Mckoy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Asher D. Mckoy",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.52.0"
+  }
+}
